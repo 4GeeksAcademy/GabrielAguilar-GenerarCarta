@@ -1,12 +1,12 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 
 body {
-  background-color: green;
+  background-color: rgb(15, 146, 37);
 }
 
 .card-body {
-  width: 18rem;
-  height: 28rem;
+  width: 330px;
+  height: 500px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
